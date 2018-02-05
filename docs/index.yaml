@@ -2,11 +2,11 @@ apiVersion: v1
 entries:
   notificationchart:
   - apiVersion: v1
-    created: 2018-02-04T22:32:02.25314457-08:00
+    created: 2018-02-04T22:59:15.751811462-08:00
     description: A Helm chart for Kubernetes
     digest: 553ba9a0ce03be3733ea40de6de14b008498db7f66d80646fd89808cbeb6f62e
     name: notificationchart
     urls:
-    - https://github.com/ibmcloudprivate2/mycharts/notificationchart-0.1.0.tgz
+    - https://ibmcloudprivate2.github.io/mycharts/notificationchart-0.1.0.tgz
     version: 0.1.0
-generated: 2018-02-04T22:32:02.252745082-08:00
+generated: 2018-02-04T22:59:15.751347088-08:00
