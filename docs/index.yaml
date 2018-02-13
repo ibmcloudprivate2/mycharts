@@ -1,8 +1,18 @@
 apiVersion: v1
 entries:
+  dotnet-app:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2018-02-13T13:40:49.456773+08:00
+    description: A Helm chart for Kubernetes
+    digest: d972aca866aa50fa185b484d688b0a7a359b4b143c20dabb15bf86e40aad0e10
+    name: dotnet-app
+    urls:
+    - https://wtistangdev.github.io/mycharts/dotnet-app-0.1.0.tgz
+    version: 0.1.0
   loyaltylevelchart:
   - apiVersion: v1
-    created: 2018-02-04T23:05:37.127666794-08:00
+    created: 2018-02-13T13:40:49.457072+08:00
     description: A Helm chart for Kubernetes
     digest: 1aeff70adf435d5eca10b25398a480d553eb893542013baeaf0e4e69d7adc215
     name: loyaltylevelchart
@@ -11,7 +21,7 @@ entries:
     version: 0.1.0
   notificationchart:
   - apiVersion: v1
-    created: 2018-02-04T23:05:37.128367811-08:00
+    created: 2018-02-13T13:40:49.457361+08:00
     description: A Helm chart for Kubernetes
     digest: 553ba9a0ce03be3733ea40de6de14b008498db7f66d80646fd89808cbeb6f62e
     name: notificationchart
@@ -20,7 +30,7 @@ entries:
     version: 0.1.0
   portfoliochart:
   - apiVersion: v1
-    created: 2018-02-04T23:05:37.130765073-08:00
+    created: 2018-02-13T13:40:49.458006+08:00
     description: A Helm chart for Kubernetes
     digest: f0e14155faf4fe0351ffaef89ddaf2e63c7d60e5fd15d63e89ff7151f0e66f2c
     name: portfoliochart
@@ -29,7 +39,7 @@ entries:
     version: 0.1.0
   stockquotechart:
   - apiVersion: v1
-    created: 2018-02-04T23:05:37.13112059-08:00
+    created: 2018-02-13T13:40:49.458224+08:00
     description: A Helm chart for Kubernetes
     digest: 863e41045ba185c19857e75054acdcd07094a421355912f78137fb98de080ee5
     name: stockquotechart
@@ -38,11 +48,11 @@ entries:
     version: 0.1.0
   traderchart:
   - apiVersion: v1
-    created: 2018-02-04T23:05:37.132997721-08:00
+    created: 2018-02-13T13:40:49.45912+08:00
     description: A Helm chart for Kubernetes
     digest: 08164b4288dcd4c7217d571a35eaadad9d18fb49bee18cd80e769f08908c894a
     name: traderchart
     urls:
     - https://wtistangdev.github.io/mycharts/traderchart-0.1.0.tgz
     version: 0.1.0
-generated: 2018-02-04T23:05:37.126156058-08:00
+generated: 2018-02-13T13:40:49.453757+08:00
