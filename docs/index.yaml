@@ -3,7 +3,7 @@ entries:
   dotnet-app:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-04-03T20:37:20.113731737+08:00
+    created: 2018-04-11T18:11:45.577811+07:00
     description: A Helm chart for Kubernetes
     digest: 93564f8a567dd21f2e2270ce15a9bc36d6baf94f31b45e71ef58537486330a68
     name: dotnet-app
@@ -12,7 +12,7 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-04-03T20:37:20.113178671+08:00
+    created: 2018-04-11T18:11:45.577155+07:00
     description: A Helm chart for Kubernetes
     digest: a5a1b51475e3a59a9bdf4769c3171803b6caf7f77566f440e1604e2d6c1ec5fa
     name: dotnet-app
@@ -21,16 +21,26 @@ entries:
     version: 0.1.0
   loyaltylevelchart:
   - apiVersion: v1
-    created: 2018-04-03T20:37:20.114806739+08:00
+    created: 2018-04-11T18:11:45.578015+07:00
     description: A Helm chart for Kubernetes
     digest: 1aeff70adf435d5eca10b25398a480d553eb893542013baeaf0e4e69d7adc215
     name: loyaltylevelchart
     urls:
     - https://ibmcloudprivate2.github.io/mycharts/loyaltylevelchart-0.1.0.tgz
     version: 0.1.0
+  myapp:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2018-04-11T18:11:45.578323+07:00
+    description: A Helm chart for Kubernetes wildfly hello world web app
+    digest: df841b19bd089451eb01d48d9de8f8ccee16275cf28a775a0ab7f1ef30b2ddec
+    name: myapp
+    urls:
+    - https://ibmcloudprivate2.github.io/mycharts/myapp-0.1.0.tgz
+    version: 0.1.0
   notificationchart:
   - apiVersion: v1
-    created: 2018-04-03T20:37:20.115250309+08:00
+    created: 2018-04-11T18:11:45.578519+07:00
     description: A Helm chart for Kubernetes
     digest: 553ba9a0ce03be3733ea40de6de14b008498db7f66d80646fd89808cbeb6f62e
     name: notificationchart
@@ -39,7 +49,7 @@ entries:
     version: 0.1.0
   portfoliochart:
   - apiVersion: v1
-    created: 2018-04-03T20:37:20.115649454+08:00
+    created: 2018-04-11T18:11:45.579065+07:00
     description: A Helm chart for Kubernetes
     digest: f0e14155faf4fe0351ffaef89ddaf2e63c7d60e5fd15d63e89ff7151f0e66f2c
     name: portfoliochart
@@ -49,16 +59,16 @@ entries:
   pyapi:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-04-03T20:37:20.116226396+08:00
+    created: 2018-04-11T18:11:45.579792+07:00
     description: A Helm chart for Kubernetes
-    digest: a8b8c7d16a1a6d81205f373389d376b5ee072c0a782ca98dfd2dcfca438b3561
+    digest: fe2044189593f8182ad6ee99d26e0026cce796088fc39bce10ac77e983153949
     name: pyapi
     urls:
     - https://ibmcloudprivate2.github.io/mycharts/pyapi-0.1.0.tgz
     version: 0.1.0
   stockquotechart:
   - apiVersion: v1
-    created: 2018-04-03T20:37:20.116428057+08:00
+    created: 2018-04-11T18:11:45.580035+07:00
     description: A Helm chart for Kubernetes
     digest: 863e41045ba185c19857e75054acdcd07094a421355912f78137fb98de080ee5
     name: stockquotechart
@@ -67,11 +77,11 @@ entries:
     version: 0.1.0
   traderchart:
   - apiVersion: v1
-    created: 2018-04-03T20:37:20.11708667+08:00
+    created: 2018-04-11T18:11:45.580881+07:00
     description: A Helm chart for Kubernetes
-    digest: b9b55d84d60af060d1035e65db2f8f87ee34681ad56f2e3ded59799e74c6ee47
+    digest: 08164b4288dcd4c7217d571a35eaadad9d18fb49bee18cd80e769f08908c894a
     name: traderchart
     urls:
     - https://ibmcloudprivate2.github.io/mycharts/traderchart-0.1.0.tgz
     version: 0.1.0
-generated: 2018-04-03T20:37:20.112293552+08:00
+generated: 2018-04-11T18:11:45.57657+07:00
